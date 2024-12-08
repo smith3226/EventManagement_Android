@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Concert 1",
+    "image": "https://www.example.com/images/concert1.jpg",
+    "date": "2024-12-01",
+    "place": "Toronto",
+    "organizer": "LiveNation",
+    "description": "A thrilling concert featuring top artists."
+  },
+  {
+    "name": "Concert 2",
+    "image": "https://www.example.com/images/concert2.jpg",
+    "date": "2024-12-05",
+    "place": "Vancouver",
+    "organizer": "EventCo",
+    "description": "An unforgettable experience with live music performances."
+  },
+  {
+    "name": "Tech Conference 2024",
+    "image": "https://www.example.com/images/techconference.jpg",
+    "date": "2024-12-10",
+    "place": "San Francisco",
+    "organizer": "TechHub",
+    "description": "The biggest tech conference of the year with industry leaders."
+  },
+  {
+    "name": "Art Exhibition: Modern Art",
+    "image": "https://www.example.com/images/artexhibition.jpg",
+    "date": "2024-12-15",
+    "place": "New York",
+    "organizer": "ArtGallery",
+    "description": "A collection of the finest modern art pieces."
+  },
+  {
+    "name": "Sports Festival 2024",
+    "image": "https://www.example.com/images/sportsfestival.jpg",
+    "date": "2024-12-20",
+    "place": "Los Angeles",
+    "organizer": "SportsInc",
+    "description": "A festival featuring various sports and fitness events."
+  },
+  {
+    "name": "Stand-up Comedy Night",
+    "image": "https://www.example.com/images/comedynight.jpg",
+    "date": "2024-12-25",
+    "place": "Chicago",
+    "organizer": "LaughOutLoud",
+    "description": "An evening of non-stop laughter with top comedians."
+  },
+  {
+    "name": "Music Festival 2024",
+    "image": "https://www.example.com/images/musicfestival.jpg",
+    "date": "2024-12-30",
+    "place": "Miami",
+    "organizer": "MusicWorld",
+    "description": "An epic music festival featuring various genres and artists."
+  },
+  {
+    "name": "Food Festival 2024",
+    "image": "https://www.example.com/images/foodfestival.jpg",
+    "date": "2024-11-01",
+    "place": "Austin",
+    "organizer": "TasteBud",
+    "description": "A celebration of food from all around the world."
+  },
+  {
+    "name": "Yoga Retreat",
+    "image": "https://www.example.com/images/yogaretreat.jpg",
+    "date": "2024-11-10",
+    "place": "Bali",
+    "organizer": "ZenLife",
+    "description": "A rejuvenating yoga retreat set in a serene location."
+  },
+  {
+    "name": "Film Screening: Indie Shorts",
+    "image": "https://www.example.com/images/filmscreening.jpg",
+    "date": "2024-11-20",
+    "place": "London",
+    "organizer": "IndieFilms",
+    "description": "A screening of the best indie short films."
+  }
+]

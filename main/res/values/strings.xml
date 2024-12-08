@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Event Management</string>
+
+        <string name="price_format">Price: $%.2f</string>
+        <string name="date_format">Date: %s</string>
+        <string name="time_format">Time: %s</string>
+        <string name="organizer_format">Organizer: %s</string>
+
+</resources>
